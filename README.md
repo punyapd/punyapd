@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @punyapd
 - 👀 I’m interested in coding...
-- 🌱 I’m currently learning javascript..
+- 🌱 I’m currently learning node..
 
 
 <!---
